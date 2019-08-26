@@ -5,6 +5,7 @@
  In this article we will learn how to create chat app in flutter using Google Firebase as backend. This article consists of number of articles in which you will learn 1. OTP Authentication in Flutter 2. Chat App Data Structure In Firebase Firestore 3. Pagination In Flutter Using Firebase Cloud Firestore 4. Upload Image File To Firebase Storage Using Flutter. I have divided chat app series in multiple articles, you will learn lots of stuff regarding flutter in this flutter chat app series. So let’s begin our app.
 
 # Output:
+![Chat App in Flutte using Google Firebase](https://raw.githubusercontent.com/myvsparth/flutter_chat_app/master/screenshots/1.png)
 
 # Plugin Required: 
  firebase_auth: // for firebase otp authentication
